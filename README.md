@@ -1,8 +1,18 @@
 👋 Hi, I’m Arti Kumari
+
+
 A passionate Artifical Intelligence Enthusiast who loves to dive deep into the world of data!
+
+
 Languages and Tools:
+
+
 https://www.mysql.com/
+
+
 C/C++
+
+
 ⚡ Fun fact: 
 🌍✈️ I love traveling and dream of exploring the whole world!
 
